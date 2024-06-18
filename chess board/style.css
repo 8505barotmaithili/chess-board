@@ -1,0 +1,35 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.main{
+    height: 800px;
+    width: 800px;
+    background-color: #ad593f;
+    margin: auto;
+   
+}
+.b1{
+    height: 100px;
+    width: 100px;
+    background-color: #ad593f;
+    float: left;
+    
+    
+}
+.b2{
+    height: 100px;
+    width: 100px;
+    background-color:#fdda97;
+    float: left;
+   
+}
+.m8 img{
+    height: 50px;
+    width: 50px;
+    margin-top: 30%;
+    margin-left: 20%;
+   
+   
+}
